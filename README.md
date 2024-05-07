@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashu240698
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java Projects
+- 👀 I’m interested in Python, Java
+- 🌱 I’m currently working as Python developer
+- 💞️ I’m looking to collaborate on Python, Java Projects
 - 📫 How to reach me janapureashutosh@gmail.com
 
 <!---
